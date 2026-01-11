@@ -1,20 +1,61 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Neyamat Ullah - Full Stack Developer Portfolio
 
-# Run and deploy your AI Studio app
+Welcome to the personal portfolio of **Neyamat Ullah**, a passionate Full Stack Web Developer from Bangladesh. This portfolio showcases projects, skills, education, and an AI-powered assistant that interacts with users. Built with **React, TypeScript, TailwindCSS**, and modern web technologies.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+## 🌐 Live Demo
+[Check out the live portfolio](https://neyamatullah.netlify.app/)
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🛠 Tech Stack & Tools
 
+- **Frontend:** React.js, Next.js, TypeScript, TailwindCSS
+- **Backend / Services:** Node.js, Express, Firebase
+- **Database:** MongoDB, PostgreSQL
+- **Other Tools:** EmailJS for contact form, SweetAlert2 for notifications
+- **Icons & UI:** React Icons, Tailwind Animations
+- **AI Integration:** Chat with Neyamat’s AI Twin using Gemini Assistant
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## ⚡ Features
+
+1. **Hero Section with Animated Tech Icons**
+   - Floating icons of React, Node.js, Tailwind CSS, MongoDB, TypeScript, Next.js, PostgreSQL, and Firebase.
+   - Animated orbital ring and portrait image.
+
+2. **About Section**
+   - Introduction and personal statement
+   - Key statistics (Experience, Projects, Clients, Coffee ☕)
+
+3. **AI Assistant**
+   - Ask questions about skills, experience, or projects
+   - Powered by Gemini AI API
+   - Live response with loading state and fallback messages
+
+4. **Skills Section**
+   - Displays technical expertise using reusable `SkillCard` component
+
+5. **Projects Section**
+   - Showcases featured projects using `ProjectCard` component
+   - Responsive grid layout
+
+6. **Education Section**
+   - Academic background displayed using `EducationItem` component
+
+7. **Contact Section**
+   - Fully functional contact form powered by EmailJS
+   - Auto-reset after successful submission
+   - Email, location, and social links integrated
+   - SweetAlert2 popup confirmation
+
+8. **Footer**
+   - Links to social profiles: Facebook, GitHub, LinkedIn
+   - Responsive and clean design
+
+---
+
+## 📁 Project Structure
+
