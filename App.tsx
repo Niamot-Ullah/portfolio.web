@@ -9,6 +9,8 @@ import { Section } from './types';
 import { askGeminiAssistant } from './services/geminiService';
 import { FaFacebook, FaGithub, FaLinkedin } from 'react-icons/fa';
 
+import bannerImg from './assets/neyamot.png'
+
 import { FaReact, FaNodeJs, FaJs } from "react-icons/fa";
 import { SiTailwindcss, SiTypescript, SiNextdotjs, SiPostgresql, SiMongodb, SiFirebase } from "react-icons/si";
 import { IconType } from "react-icons";
@@ -191,7 +193,7 @@ useEffect(() => {
                 <div className="w-full h-full rounded-full overflow-hidden border-8 border-indigo-500/20 relative z-10 p-2 glass-card">
                   <div className="w-full h-full rounded-full overflow-hidden">
                     <img
-                      src="./assets/neyamot.png"
+                    src={bannerImg}
                       alt="Neyamat's Portrait"
                       className="w-full h-full object-cover grayscale-0 hover:grayscale transition-all duration-700 scale-110"
                     />
