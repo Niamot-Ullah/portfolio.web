@@ -1,3 +1,5 @@
+
+
 # Neyamat Ullah - Full Stack Developer Portfolio
 
 Welcome to the personal portfolio of **Neyamat Ullah**, a passionate Full Stack Web Developer from Bangladesh. This portfolio showcases projects, skills, education, and an AI-powered assistant that interacts with users. Built with **React, TypeScript, TailwindCSS**, and modern web technologies.
@@ -5,7 +7,7 @@ Welcome to the personal portfolio of **Neyamat Ullah**, a passionate Full Stack 
 ---
 
 ## 🌐 Live Demo
-[Check out the live portfolio](https://neyamatullah.netlify.app/)
+live link : https://neyamatullah.netlify.app/
 
 ---
 
